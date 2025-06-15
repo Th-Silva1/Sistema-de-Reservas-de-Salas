@@ -8,7 +8,7 @@ import java.sql.*;
 public class DAO {
     private static final String URL = "jdbc:mysql://localhost:3306/projeeweb?autoReconnect=true&useSSL=false";
     private static final String USUARIO = "root";
-    private static final String SENHA = "030212079945472989915071";
+    private static final String SENHA = "";
     
     static {
         try {
